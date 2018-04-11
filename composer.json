@@ -1,0 +1,17 @@
+{
+    "name": "cydrickn/atlas-orm-bundle",
+    "description": "Atlas ORM Bundle for Symfony",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cydrick Nonog",
+            "email": "cydrick.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "atlas/orm": "^2.2",
+        "symfony/http-kernel": "^4.0",
+        "symfony/config": "^4.0",
+        "symfony/dependency-injection": "^4.0"
+    }
+}
