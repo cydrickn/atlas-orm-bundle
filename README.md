@@ -1,4 +1,6 @@
-# Atlas ORM Bundle
+ # [Deprecated] Atlas ORM Bundle
+
+This bundle is already deprecated as alternative you can use <https://github.com/atlasphp/Atlas.Symfony>
 
 Symfony Bundle for <http://atlasphp.io>
 
